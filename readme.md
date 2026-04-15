@@ -1,11 +1,5 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">🚀 Space Shooter Game (Unity)</h1>
-
-<p align="center">
-  <b>CE318 / CE818 - High-level Games Development</b><br/>
-  Lab 3 & Lab 4 Implementation
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-3D-black?logo=unity">
   <img src="https://img.shields.io/badge/C%23-Scripting-blue?logo=csharp">
