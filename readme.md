@@ -244,7 +244,6 @@ After building, run the generated <b>.exe</b> file to play the game.
 <p>
 <b>Name:</b> Phat  
 <br/>
-<b>Course:</b> CE318 / CE818  
 </p>
 
 <hr/>
