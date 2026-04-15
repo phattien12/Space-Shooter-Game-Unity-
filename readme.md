@@ -44,8 +44,8 @@ The project is divided into two parts:
 </p>
 
 <ul>
-  <li><b>Lab 3:</b> Core gameplay mechanics</li>
-  <li><b>Lab 4:</b> Advanced features (audio, UI, scoring, camera animation)</li>
+  <li><b></b> Core gameplay mechanics</li>
+  <li><b></b> Advanced features (audio, UI, scoring, camera animation)</li>
 </ul>
 
 <hr/>
